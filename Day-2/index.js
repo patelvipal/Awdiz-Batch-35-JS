@@ -17,6 +17,7 @@ console.log(name, "name");
 console.log(email, "email");
 console.log(password, "password");
 
+
 console.log(typeof name);
 console.log(typeof email);
 console.log(typeof password);
